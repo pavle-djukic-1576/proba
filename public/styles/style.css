@@ -1,0 +1,68 @@
+#mainImg{
+	width: 100%;
+}
+
+.mainNav{
+	margin-bottom: 0px;
+}
+#img-heading{
+	position: relative;
+}
+
+.glyphicon{
+	font-size: 30px;
+	color: green;
+}
+.informations{
+	margin-top: 10px;
+}
+.main-body{
+	border-radius: 15px 15px 15px 15px;
+}
+.main-body{
+	font-family:"Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+	background: #afd9ee;
+	color: #262626;
+}
+
+tr:hover{
+background-color: #2579a9;
+}
+
+input[type] {
+	width: 600px;
+}
+.mainTable {
+	font-family:"Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+	color: #101010;
+}
+
+.mainTable input[type]{
+	border: 1px solid red;
+	width: 80px;
+
+}
+#polInp{
+	width: 600px;
+}
+
+
+table {
+	border-collapse:separate;
+	border:solid black 1px;
+	border-radius:6px;
+	-moz-border-radius:6px;
+}
+
+td, th {
+	border-left:solid black 1px;
+	border-top:solid black 1px;
+}
+
+td:first-child, th:first-child {
+	border-left: none;
+}
+
+input[type=checkbox] {
+	transform: scale(1.5);
+}
